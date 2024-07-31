@@ -55,7 +55,7 @@ Este repositório é um fork do projeto original do Felipe Aguiar. No entanto, p
 
 **Observação:**
 
-Para que o código funcionasse perfeitamente, foi necessário alterar o arquivo home.js, uma vez que os nomes das constantes em api.js foram alterados.
+    Para que o código funcionasse perfeitamente, foi necessário alterar o arquivo home.js, uma vez que os nomes das constantes em api.js foram alterados.
 
 ### Modificação 2: `app.js` e  `server.js`
 
