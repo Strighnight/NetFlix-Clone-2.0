@@ -41,17 +41,23 @@ Este repositório é um fork do projeto original do Felipe Aguiar. No entanto, p
 
 **Principais mudanças:**
 
-1 - Utilização de "const" ao invés de "let" para prevenir alterações acidentais e tornar claro que esses valores são constantes.
+1 - Uso de const ao invés de let:
 
-2 - Nomenclatura clara: como são constantes, os nomes foram definidos em maiúsculas e utilizando o padrão Snake_Case.
+    Utilização de "const" ao invés de "let" para prevenir alterações acidentais e tornar claro que esses valores são constantes.
 
-3 - Remoção do excesso de linhas puladas.
+2 - Nomenclatura clara: 
+
+    Como são constantes, os nomes foram definidos em maiúsculas e utilizando o padrão Snake_Case.
+
+3 - Remoção de Linhas Puladas:
+
+    Melhorando a organização e legibilidade do código.
 
 **Observação:**
 
 Para que o código funcionasse perfeitamente, foi necessário alterar o arquivo home.js, uma vez que os nomes das constantes em api.js foram alterados.
 
-### Modificação 1: `app.js` e  `server.js`
+### Modificação 2: `app.js` e  `server.js`
 
 **Código original:**
 
@@ -80,21 +86,21 @@ Para que o código funcionasse perfeitamente, foi necessário alterar o arquivo 
 
     O código foi dividido em dois arquivos: app.js e server.js. Isso segue o princípio de responsabilidade única, onde cada módulo tem uma função clara.
 
-Função de Configuração (createApp):
+2 - Função de Configuração (createApp):
 
     A função createApp foi movida para app.js e exportada.
     Essa função configura o servidor Express, define o diretório estático e a rota raiz.
 
-Função de Inicialização (startServer):
+3 - Função de Inicialização (startServer):
 
     A função startServer foi movida para server.js.
     Essa função importa createApp, cria o aplicativo e inicia o servidor na porta especificada, logando uma mensagem quando o servidor está em execução.
 
-Uso de path.join Consistente:
+4 - Uso de path.join Consistente:
 
     O uso de path.join para construir caminhos foi mantido e aplicado consistentemente.
 
-Adição de Porta Dinâmica:
+5 - Adição de Porta Dinâmica:
 
     server.js agora define uma porta padrão (process.env.PORT || 3000), permitindo a configuração da porta através de variáveis de ambiente.
 
