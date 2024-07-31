@@ -48,5 +48,3 @@ Se você tiver dúvidas ou quiser trocar ideias sobre o projeto, entre em contat
 ---
 
 **Feliz aprendizado!** 🌟
-
-![Happy Learning](https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif)
