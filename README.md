@@ -37,14 +37,23 @@ Este repositório está aberto para contribuições! Se você tem sugestões, me
 
 **Arquivo original:**
 
-<img src="/Prints/Original.png">
+![image](https://github.com/user-attachments/assets/973c9b2e-946b-4741-981c-57b2bf7bf48d)
 
 **Arquivo modificado:**
 
-Aqui estão algumas capturas de tela do projeto em diferentes estágios de desenvolvimento:
+![image](https://github.com/user-attachments/assets/a66b7218-3c91-49ad-b3d1-315fbc1178fc)
 
+**Descrição das mudanças:**
 
-![Screenshot 2](caminho/para/imagem2.png)
+1 - Utilização de "const" ao invés de "let" para prevenir alterações acidentais e tornar claro que esses valores são constantes.
+
+2 - Nomenclatura clara: como são constantes, os nomes foram definidos em maiúsculas e utilizando o padrão Snake_Case.
+
+3 - Remoção do excesso de linhas puladas.
+
+**Observação:**
+
+Para que o código funcionasse perfeitamente, foi necessário alterar o arquivo home.js, uma vez que os nomes das constantes em api.js foram alterados
 
 ## 📫 Contato
 
