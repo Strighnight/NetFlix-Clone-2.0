@@ -31,7 +31,21 @@ Este repositório é um fork do projeto original do Felipe Aguiar. No entanto, p
 
 Este repositório está aberto para contribuições! Se você tem sugestões, melhorias ou correções, sinta-se à vontade para abrir uma *pull request* ou entrar em contato.
 
-## 🖼️ Capturas de Tela
+## 🔄 Alterações
+
+### Modificação 1: `api.js`
+
+**Arquivo original:**
+
+let api_key = "d19a1946970f98fae002af7545322879";
+
+let img_url = "https://image.tmdb.org/t/p/w500";
+
+let genres_list_http = "https://api.themoviedb.org/3/genre/movie/list?";
+
+let movie_genres_http = "https://api.themoviedb.org/3/discover/movie?";
+
+**Arquivo modificado:**
 
 Aqui estão algumas capturas de tela do projeto em diferentes estágios de desenvolvimento:
 
