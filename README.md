@@ -36,20 +36,13 @@ Este repositório está aberto para contribuições! Se você tem sugestões, me
 ### Modificação 1: `api.js`
 
 **Arquivo original:**
-
-let api_key = "d19a1946970f98fae002af7545322879";
-
-let img_url = "https://image.tmdb.org/t/p/w500";
-
-let genres_list_http = "https://api.themoviedb.org/3/genre/movie/list?";
-
-let movie_genres_http = "https://api.themoviedb.org/3/discover/movie?";
+![Screenshot 1]("C:\Users\luanw\Downloads\Screenshot 2024-07-31 at 14-08-05 NetFlix-Clone-2.0_public_js_api.js at main · Strighnight_NetFlix-Clone-2.0.png")
 
 **Arquivo modificado:**
 
 Aqui estão algumas capturas de tela do projeto em diferentes estágios de desenvolvimento:
 
-![Screenshot 1](caminho/para/imagem1.png)
+
 ![Screenshot 2](caminho/para/imagem2.png)
 
 ## 📫 Contato
