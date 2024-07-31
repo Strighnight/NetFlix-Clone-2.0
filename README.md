@@ -36,7 +36,8 @@ Este repositório está aberto para contribuições! Se você tem sugestões, me
 ### Modificação 1: `api.js`
 
 **Arquivo original:**
-![image](https://github.com/Strighnight/NetFlix-Clone-2.0/blob/main/Prints/Original.png)
+
+<img src="/Prints/Original.png">
 
 **Arquivo modificado:**
 
