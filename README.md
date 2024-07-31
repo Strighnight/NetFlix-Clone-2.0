@@ -36,7 +36,7 @@ Este repositório está aberto para contribuições! Se você tem sugestões, me
 ### Modificação 1: `api.js`
 
 **Arquivo original:**
-![Screenshot 1]("C:\Users\luanw\Downloads\Screenshot 2024-07-31 at 14-08-05 NetFlix-Clone-2.0_public_js_api.js at main · Strighnight_NetFlix-Clone-2.0.png")
+![Screenshot 1]("https://github.com/Strighnight/NetFlix-Clone-2.0/blob/main/Prints/Screenshot%202024-07-31%20at%2014-08-05%20NetFlix-Clone-2.0_public_js_api.js%20at%20main%20%C2%B7%20Strighnight_NetFlix-Clone-2.0.png")
 
 **Arquivo modificado:**
 
