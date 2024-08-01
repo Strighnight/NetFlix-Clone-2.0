@@ -104,6 +104,24 @@ Este repositório é um fork do projeto original do Felipe Aguiar. No entanto, p
 
     server.js agora define uma porta padrão (process.env.PORT || 3000), permitindo a configuração da porta através de variáveis de ambiente.
 
+### Modificação 3: `app.js`
+
+**Código original:**
+    
+![image](https://github.com/user-attachments/assets/17f98626-d1cd-4e08-b68f-51a8417e2cce)
+
+
+**Código modificado:**
+
+![image](https://github.com/user-attachments/assets/321e3032-d746-4e77-9af3-edc8e2fb4ddd)
+
+**Principal mudança:**
+
+1 - Comentários:
+
+    Adicionei comentários para explicar o propósito de cada seção do código, tornando mais fácil para um leitor entender o que cada parte faz.
+
+
 ## 🌱 Contribuições
 
 Este repositório está aberto para contribuições! Se você tem sugestões, melhorias ou correções, sinta-se à vontade para abrir uma *pull request* ou entrar em contato.
