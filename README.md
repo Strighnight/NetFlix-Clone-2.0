@@ -121,6 +121,29 @@ Este repositório é um fork do projeto original do Felipe Aguiar. No entanto, p
 
     Adicionei comentários para explicar o propósito de cada seção do código, tornando mais fácil para um leitor entender o que cada parte faz.
 
+### Modificação 4: `app.js`
+
+**Código original:**
+
+![image](https://github.com/user-attachments/assets/321e3032-d746-4e77-9af3-edc8e2fb4ddd)
+
+**Código modificado:**
+
+![image](https://github.com/user-attachments/assets/f4b870bc-54ed-4c4f-93d2-cec148d69320)
+
+**Principais mudanças:**
+
+1 - Criação de funções separadas:
+
+    Foram criadas duas funções separadas (configureMiddlewares e defineRoutes) para separar a configuração de middlewares e definição de rotas.
+
+2 - Passagem de parâmetros:
+
+    Essas funções recebem app e publicDirectoryPath como parâmetros, permitindo que sejam reutilizadas ou testadas independentemente.
+
+3 - Organização do código:
+
+    A lógica de configuração da aplicação foi organizada de maneira mais modular e legível, facilitando a manutenção e a expansão futura.
 
 ## 🌱 Contribuições
 
